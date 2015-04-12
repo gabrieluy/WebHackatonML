@@ -1,0 +1,7 @@
+C:\Users\djleo\Desktop\MeLiDotNetSample-master\MeLiDotNetSample-master\MeliSample\bin\MeliSample.dll
+C:\Users\djleo\Desktop\MeLiDotNetSample-master\MeLiDotNetSample-master\MeliSample\bin\MeliSample.pdb
+C:\Users\djleo\Desktop\MeLiDotNetSample-master\MeLiDotNetSample-master\MeliSample\bin\net-sdk.dll
+C:\Users\djleo\Desktop\MeLiDotNetSample-master\MeLiDotNetSample-master\MeliSample\bin\Newtonsoft.Json.dll
+C:\Users\djleo\Desktop\MeLiDotNetSample-master\MeLiDotNetSample-master\MeliSample\bin\RestSharp.dll
+C:\Users\djleo\Desktop\MeLiDotNetSample-master\MeLiDotNetSample-master\MeliSample\obj\Debug\MeliSample.dll
+C:\Users\djleo\Desktop\MeLiDotNetSample-master\MeLiDotNetSample-master\MeliSample\obj\Debug\MeliSample.pdb
